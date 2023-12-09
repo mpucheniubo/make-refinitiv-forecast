@@ -1,0 +1,13 @@
+azure-functions==1.13.2
+lightgbm==3.3.5
+numpy==1.23.5
+pandas==1.5.3
+pyodbc==4.0.35
+scikit-learn==1.2.1
+statsmodels==0.13.5
+xgboost==1.7.3
+convertdate==2.4.0
+LunarCalendar==0.0.9
+holidays==0.19
+fastai==2.7.10
+neuralprophet==0.5.1
